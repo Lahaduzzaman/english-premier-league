@@ -1,0 +1,21 @@
+.team-detail {
+  background-color: rgba(18, 35, 223, 0.753);
+  color: white;
+  border-radius: 15px;
+}
+.team-detail .icon {
+  width: 25px;
+  height: 25px;
+}
+.team-detail-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.team-info {
+  background-color: #0fc74cfd;
+}
+.team-info .team-description,
+.stadium-description {
+  color: white;
+}
