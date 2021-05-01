@@ -1,5 +1,14 @@
-Name: English Premier League Website
-
-Description: This is the English Premier League Website. This League plays 16 teams. To make this website, I use to React, React-router-dom, MATERIAL-UI, React Font Awesome for social icon, React Bootstrap.
+It's English Premier League Website
 
 English Premier League Website is : https://amazing-bohr-10e355.netlify.app/
+
+Overview:
+
+* This League plays 16 teams. To make this website.
+* 16 teams and their description.
+* Every team has their social official accounts.
+
+
+Technology: React, React-Router-Dom, ES6, MATERIAL-UI, React Font Awesome, React Bootstrap.
+
+
