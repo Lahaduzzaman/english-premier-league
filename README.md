@@ -1,6 +1,6 @@
 It's English Premier League Website
 
-English Premier League Website is : https://amazing-bohr-10e355.netlify.app/
+English Premier League Website is : https://english-premier-league1.netlify.app/
 
 Overview:
 
